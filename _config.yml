@@ -1,0 +1,4 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: ""

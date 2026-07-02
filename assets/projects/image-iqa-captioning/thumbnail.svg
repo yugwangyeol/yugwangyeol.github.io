@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#fafafa"/>
+  <rect x="98" y="92" width="258" height="196" rx="18" fill="#e0f2fe"/>
+  <circle cx="166" cy="154" r="30" fill="#facc15"/>
+  <path d="M116 264l82-76 56 48 44-38 42 66z" fill="#38bdf8"/>
+  <rect x="396" y="110" width="150" height="34" rx="12" fill="#e5e7eb"/>
+  <rect x="396" y="168" width="108" height="34" rx="12" fill="#e5e7eb"/>
+  <rect x="396" y="226" width="132" height="34" rx="12" fill="#e5e7eb"/>
+  <text x="46" y="372" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">Image IQA &amp; Captioning</text>
+</svg>

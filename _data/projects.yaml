@@ -1,0 +1,48 @@
+projects:
+  - title: "Generating Facial Caricature Profile GIFs"
+    organization: "X:AI"
+    period: "Jul. 2024 - Aug. 2024"
+    thumbnail: "/assets/projects/facial-caricature/thumbnail.svg"
+    selected: y
+
+  - title: "Accident Risk Prediction (ECLO) Using Spatiotemporal Information"
+    organization: "Ministry of Trade, Industry and Energy"
+    period: "Nov. 2024 - Dec. 2024"
+    thumbnail: "/assets/projects/accident-risk/thumbnail.svg"
+    selected: y
+
+  - title: "Port Ship Waiting Time Prediction"
+    organization: "Hyundai"
+    period: "Sep. 2024 - Nov. 2024"
+    thumbnail: "/assets/projects/port-waiting-time/thumbnail.svg"
+    selected: y
+
+  - title: "Image IQA Assessment and Captioning"
+    organization: "Samsung Advanced Institute of Technology"
+    period: "Aug. 2023 - Oct. 2023"
+    thumbnail: "/assets/projects/image-iqa-captioning/thumbnail.svg"
+    selected: y
+
+  - title: "Generating 3D Shoes Customization"
+    organization: "X:AI"
+    period: "Jul. 2023 - Nov. 2023"
+    thumbnail: "/assets/projects/3d-shoes/thumbnail.svg"
+    selected: y
+
+  - title: "Path Guidance for Visually Impaired Individuals Using Object Detection and Segmentation"
+    organization: "Ministry of Health and Welfare"
+    period: "Jul. 2023 - Oct. 2023"
+    thumbnail: "/assets/projects/path-guidance/thumbnail.svg"
+    selected: y
+
+  - title: "Process Anomaly Detection Through Time Series Analysis"
+    organization: "KAIST, KOSMO, Ministry of SMEs and Startups"
+    period: "Oct. 2022 - Dec. 2022"
+    thumbnail: "/assets/projects/process-anomaly/thumbnail.svg"
+    selected: n
+
+  - title: "Flood Prediction Using Dam Inflow Forecasting"
+    organization: "Ministry of Science and ICT, NIA"
+    period: "Sep. 2021 - Dec. 2021"
+    thumbnail: "/assets/projects/flood-prediction/thumbnail.svg"
+    selected: n

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#f7f8fa"/>
+  <circle cx="248" cy="174" r="72" fill="#dbeafe"/>
+  <path d="M176 310c20-70 124-70 144 0" fill="#bfdbfe"/>
+  <rect x="366" y="134" width="108" height="152" rx="18" fill="#e5e7eb"/>
+  <path d="M390 184h60M390 220h72M390 256h44" stroke="#64748b" stroke-width="12" stroke-linecap="round"/>
+  <text x="42" y="372" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">Facial Caricature GIFs</text>
+</svg>

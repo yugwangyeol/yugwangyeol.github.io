@@ -1,0 +1,45 @@
+awards:
+  - title: "HD Hyundai AI Challenge"
+    award: "Grand Prize"
+    organization: "Hyundai"
+    year: "2023"
+
+  - title: "2023 BigContest"
+    award: "Grand Prize"
+    organization: "Ministry of Science and ICT, NIA"
+    year: "2023"
+
+  - title: "Hackathon Competition for the Disabled"
+    award: "Honorable Mention"
+    organization: "Ministry of Health and Welfare"
+    year: "2023"
+
+  - title: "DACrew 4th"
+    award: "Encouragement Award"
+    organization: "DACON"
+    year: "2023"
+
+  - title: "KAMP: The 2nd K-Artificial Intelligence Manufacturing Data Analysis Competition"
+    award: "Gold Prize"
+    organization: "KAIST, KOSMO, Ministry of SMEs and Startups"
+    year: "2022"
+
+  - title: "2022 BigContest"
+    award: "Gold Prize"
+    organization: "Ministry of Science and ICT, NIA"
+    year: "2022"
+
+  - title: "SKT AI Fellowship 4th"
+    award: "1st, Encouragement Prize"
+    organization: "SK Telecom"
+    year: "2022"
+
+  - title: "The 2nd NH Investment & Securities Big Data Competition"
+    award: "Honorable Mention"
+    organization: "NH Investment & Securities"
+    year: "2021"
+
+  - title: "2021 BigContest"
+    award: "Encouragement Award"
+    organization: "Ministry of Science and ICT, NIA"
+    year: "2021"

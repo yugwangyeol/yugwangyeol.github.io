@@ -1,0 +1,42 @@
+education:
+  - institution: "Korea University"
+    degree: "Graduate Student in Artificial Intelligence"
+    period: "Mar. 2026 - Present"
+
+  - institution: "Kookmin University"
+    degree: "B.S. in AI, Bigdata & Management"
+    period: "Mar. 2019 - Aug. 2025"
+    details:
+      - "Minor: School of Software"
+      - "Interdisciplinary Major: Data Science"
+      - "Overall GPA: 4.04 / 4.5; Major GPA: 4.09 / 4.5"
+
+  - institution: "Daegwang High School"
+    degree: "High School"
+    period: "Mar. 2016 - Feb. 2019"
+
+experiences:
+  - title: "One Shot Voice Conversion Attack"
+    role: "Undergraduate Research Student, UROP, Kookmin University"
+    period: "Dec. 2024 - Feb. 2025"
+    description: "Developed a noise generation algorithm that disrupts voice conversion from style voice inputs while keeping the noise imperceptible to listeners."
+
+  - title: "Self-Supervised Learning for Video Anomaly Detection"
+    role: "Undergraduate Research Student, Alpha Project, Kookmin University"
+    period: "Aug. 2024 - Dec. 2024"
+    description: "Studied driver video anomaly detection with self-supervised learning and jigsaw-puzzle-based techniques."
+
+  - title: "Transformer based MTA Model"
+    role: "Undergraduate Research Student, University-Industry Collaboration Research Program, Kookmin University & Nasmedia"
+    period: "Mar. 2024 - Jun. 2024"
+    description: "Proposed a Transformer-based Multi-Touch Attribution model using user data to improve attribution accuracy and interpretability."
+
+  - title: "Improving Diffusion Model Performance through Explainable AI"
+    role: "Research Student, X:AI Research Session, Kookmin University"
+    period: "May. 2024 - Present"
+    description: "Applied XAI techniques such as Grad-CAM to diffusion models to identify decision-critical regions and improve model performance."
+
+  - title: "Developing Technology for Detecting Personal Information in Images"
+    role: "Fellow, SKT AI Fellowship, SK Telecom"
+    period: "Apr. 2022 - Nov. 2022"
+    description: "Developed models and datasets for detecting personal information such as names, addresses, and faces in sensitive document images."
