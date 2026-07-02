@@ -1,6 +1,6 @@
 education:
   - institution: "Korea University"
-    degree: "Graduate Student in Artificial Intelligence"
+    degree: "M.S. Student in Artificial Intelligence"
     period: "Mar. 2026 - Present"
 
   - institution: "Kookmin University"
@@ -10,11 +10,6 @@ education:
       - "Minor: School of Software"
       - "Interdisciplinary Major: Data Science"
       - "Overall GPA: 4.04 / 4.5; Major GPA: 4.09 / 4.5"
-
-  - institution: "Daegwang High School"
-    degree: "High School"
-    period: "Mar. 2016 - Feb. 2019"
-
 experiences:
   - title: "One Shot Voice Conversion Attack"
     role: "Undergraduate Research Student, UROP, Kookmin University"

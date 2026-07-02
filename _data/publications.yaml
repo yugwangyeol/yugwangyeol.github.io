@@ -5,6 +5,7 @@ papers:
     venue: "Interspeech, 2025."
     paper_pdf: "https://www.isca-archive.org/interspeech_2025/yu25c_interspeech.html#"
     doi: "https://doi.org/10.21437/Interspeech.2025-1625"
+    thumbnail: "/assets/publications/mimic-blocker/thumbnail.svg"
     selected: y
 
   - title: "Distortion Measurement Metric for Human Image Refinement and Evaluation Using Distorted Image Datasets"
@@ -13,4 +14,5 @@ papers:
     venue: "IEEE Access, 2025."
     paper_pdf: "https://ieeexplore.ieee.org/document/10892112"
     doi: "https://doi.org/10.1109/ACCESS.2025.3543542"
+    thumbnail: "/assets/publications/distortion-metric/thumbnail.svg"
     selected: y

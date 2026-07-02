@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#fafafa"/>
+  <rect x="82" y="88" width="192" height="210" rx="16" fill="#e0f2fe"/>
+  <path d="M112 252l56-74 38 48 34-36 26 62z" fill="#38bdf8"/>
+  <circle cx="144" cy="140" r="24" fill="#facc15"/>
+  <rect x="366" y="88" width="192" height="210" rx="16" fill="#f3f4f6"/>
+  <path d="M392 128h82M392 170h118M392 212h94M392 254h132" stroke="#64748b" stroke-width="14" stroke-linecap="round"/>
+  <text x="48" y="360" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">Distortion Metric</text>
+</svg>

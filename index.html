@@ -25,20 +25,25 @@ title: Home
   <p class="section-note">(C: Conference, J: Journal, P: Patent)</p>
 
   {% for paper in site.data.publications.papers %}
-    <div class="paper">
-      <p class="title"><b>[{{ paper.label }}] {{ paper.title }}</b></p>
-      <p>{{ paper.authors }}</p>
-      <p><i>{{ paper.venue }}</i></p>
-      <div class="paper-buttons">
-        {% if paper.paper_pdf %}
-          <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
-        {% endif %}
-        {% if paper.doi %}
-          <a class="button" href="{{ paper.doi }}" target="_blank">DOI</a>
-        {% endif %}
-        {% if paper.code %}
-          <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-        {% endif %}
+    <div class="publication">
+      {% if paper.thumbnail %}
+        <img class="publication-thumb" src="{{ paper.thumbnail | prepend: site.baseurl }}" alt="{{ paper.title }} thumbnail">
+      {% endif %}
+      <div class="publication-body">
+        <p class="title"><b>[{{ paper.label }}] {{ paper.title }}</b></p>
+        <p>{{ paper.authors }}</p>
+        <p><i>{{ paper.venue }}</i></p>
+        <div class="paper-buttons">
+          {% if paper.paper_pdf %}
+            <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+          {% endif %}
+          {% if paper.doi %}
+            <a class="button" href="{{ paper.doi }}" target="_blank">DOI</a>
+          {% endif %}
+          {% if paper.code %}
+            <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+          {% endif %}
+        </div>
       </div>
     </div>
   {% endfor %}
@@ -66,6 +71,7 @@ title: Home
   {% endfor %}
 </div>
 
+{% comment %}
 <div class="docs-section" id="experience">
   <h4>Research Experience</h4>
   {% for exp in site.data.experience.experiences %}
@@ -79,6 +85,7 @@ title: Home
     </div>
   {% endfor %}
 </div>
+{% endcomment %}
 
 <div class="docs-section" id="awards">
   <h4>Awards &amp; Honors</h4>
@@ -93,6 +100,7 @@ title: Home
   {% endfor %}
 </div>
 
+{% comment %}
 <div class="docs-section" id="projects">
   <h4>Projects</h4>
   {% for project in site.data.projects.projects %}
@@ -112,7 +120,9 @@ title: Home
     </div>
   {% endfor %}
 </div>
+{% endcomment %}
 
+{% comment %}
 <div class="docs-section" id="skills">
   <h4>Skills</h4>
   <p><b>Programming Languages</b>: Python, R, C++, Java, JavaScript</p>
@@ -120,3 +130,4 @@ title: Home
   <p><b>Development Tools &amp; Platforms</b>: VSCode, PyCharm, Colab, Jupyter Notebook/Lab, Docker, Weights &amp; Biases, Git, GitHub</p>
   <p><b>Others</b>: Gradio, Streamlit, QGIS, MySQL, Slack</p>
 </div>
+{% endcomment %}
