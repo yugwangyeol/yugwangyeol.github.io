@@ -26,7 +26,7 @@ h4 {
 
 .header {
   display: flex;
-  gap: 34px;
+  gap: 28px;
   align-items: center;
   margin-top: 5.5rem;
   margin-bottom: 5rem;
@@ -34,12 +34,12 @@ h4 {
 }
 
 .profile-photo {
-  flex: 0 0 210px;
+  flex: 0 0 150px;
 }
 
 .profile-photo img {
-  width: 210px;
-  height: 210px;
+  width: 150px;
+  height: 150px;
   border-radius: 6px;
   object-fit: cover;
 }
@@ -284,11 +284,6 @@ h4 {
 
   .profile-photo {
     margin-bottom: 2rem;
-  }
-
-  .profile-photo img {
-    width: 180px;
-    height: 180px;
   }
 
   .main-description h1 {
