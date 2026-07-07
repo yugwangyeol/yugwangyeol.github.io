@@ -36,9 +36,9 @@
         <p>{{ site.data.main_info.affiliation }}</p>
         <p>{{ site.data.main_info.location }} | {{ site.data.main_info.email }}</p>
         <p class="social-links">
-          <a href="mailto:rhkdduf627@kookmin.ac.kr" aria-label="Email" title="Email"><i class="fa-solid fa-envelope"></i></a>
+          <a href="mailto:rhkdduf627@korea.ac.kr" aria-label="Email" title="Email"><i class="fa-solid fa-square-envelope" aria-hidden="true"></i></a>
           {% if site.data.main_info.github != "" %}
-            <a href="{{ site.data.main_info.github }}" target="_blank" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github"></i></a>
+            <a href="{{ site.data.main_info.github }}" target="_blank" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-square-github" aria-hidden="true"></i></a>
           {% endif %}
           {% comment %}
           {% if site.data.main_info.notion != "" %}
@@ -46,14 +46,16 @@
           {% endif %}
           {% endcomment %}
           {% if site.data.main_info.linkedin != "" %}
-            <a href="{{ site.data.main_info.linkedin }}" target="_blank" aria-label="LinkedIn" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="{{ site.data.main_info.linkedin }}" target="_blank" aria-label="LinkedIn" title="LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
           {% endif %}
           {% if site.data.main_info.google_scholar != "" %}
-            <a href="{{ site.data.main_info.google_scholar }}" target="_blank" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+            <a href="{{ site.data.main_info.google_scholar }}" target="_blank" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar-square" aria-hidden="true"></i></a>
           {% endif %}
+          {% comment %}
           {% if site.data.main_info.cv != "" %}
-            <a href="{{ site.data.main_info.cv | prepend: site.baseurl }}" target="_blank" aria-label="CV" title="CV"><i class="fa-regular fa-file-pdf"></i></a>
+            <a href="{{ site.data.main_info.cv | prepend: site.baseurl }}" target="_blank" aria-label="CV" title="CV"><i class="fa ai ai-cv-square" aria-hidden="true"></i></a>
           {% endif %}
+          {% endcomment %}
         </p>
       </div>
     </section>
