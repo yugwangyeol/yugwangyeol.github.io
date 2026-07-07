@@ -4,7 +4,8 @@ papers:
     authors: "<b>Gwangyeol Yu</b>, Junhyuk Lee, Seoryeong Kim, Jimin Lee, Jehyuk Lee"
     venue: "Interspeech, 2025."
     paper_pdf: "https://www.isca-archive.org/interspeech_2025/yu25c_interspeech.html#"
-    doi: "https://doi.org/10.21437/Interspeech.2025-1625"
+    project_page: "https://2junhyeok.github.io/MimicBlocker/"
+    code: "https://github.com/yugwangyeol/Mimic-Blocker.git"
     thumbnail: "/assets/mimic-blocker/thumbnail.png"
     selected: y
 
@@ -13,6 +14,6 @@ papers:
     authors: "<b>Gwangyeol Yu</b>, Kyungseo Yoon, Sangwoo Lee, Yeju Shin, Junghyuk Park"
     venue: "IEEE Access, 2025."
     paper_pdf: "https://ieeexplore.ieee.org/document/10892112"
-    doi: "https://doi.org/10.1109/ACCESS.2025.3543542"
+    code: "https://github.com/yugwangyeol/DLS_P2P.git"
     thumbnail: "/assets/distortion-metric/thumbnail.png"
     selected: y
