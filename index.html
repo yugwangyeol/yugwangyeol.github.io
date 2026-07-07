@@ -16,7 +16,7 @@ title: Home
 
 <div class="docs-section" id="publications">
   <h4>Publications</h4>
-  <p class="section-note">(C: Conference, J: Journal, P: Patent)</p>
+  <p class="section-note">(C: Conference, J: Journal)</p>
 
   {% for paper in site.data.publications.papers %}
     <div class="publication">
@@ -42,11 +42,13 @@ title: Home
     </div>
   {% endfor %}
 
+  {% comment %}
   <div class="paper">
     <p class="title"><b>[P1] Development and contentization of athlete fitness indicators using STT and Object Tracking</b></p>
     <p><b>Gwangyeol Yu</b>, Seoyeon Lee, Kiseoup Shin, Seunghak Lee</p>
     <p><i>KR-Application No. 10-2024-0007425.</i></p>
   </div>
+  {% endcomment %}
 </div>
 
 <div class="docs-section" id="education">

@@ -58,16 +58,31 @@ h4 {
 .social-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
+  gap: 7px;
   margin-top: 1.2rem;
 }
 
 .social-links a {
   display: inline-flex;
   align-items: center;
-  color: #222;
-  font-size: 2.1rem;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 4px;
+  color: #fff;
+  background: #777;
+  font-size: 1.8rem;
   line-height: 1;
+}
+
+.social-links a:hover {
+  color: #fff;
+  background: #555;
+  text-decoration: none;
+}
+
+.social-links .ai {
+  font-size: 1.9rem;
 }
 
 .docs-section {
@@ -87,19 +102,20 @@ h4 {
 
 .publication {
   display: grid;
-  grid-template-columns: 150px minmax(0, 1fr);
-  gap: 20px;
+  grid-template-columns: 210px minmax(0, 1fr);
+  gap: 24px;
   align-items: start;
-  margin-bottom: 2.6rem;
+  margin-bottom: 3rem;
 }
 
 .publication-thumb {
-  width: 150px;
-  height: 96px;
+  width: 210px;
+  height: auto;
+  max-height: 170px;
   border: 1px solid #e5e5e5;
   border-radius: 6px;
-  object-fit: cover;
-  background: #f8f8f8;
+  object-fit: contain;
+  background: #fff;
 }
 
 .publication-body p {
@@ -280,13 +296,13 @@ h4 {
   }
 
   .publication {
-    grid-template-columns: 92px minmax(0, 1fr);
+    grid-template-columns: 1fr;
     gap: 14px;
   }
 
   .publication-thumb {
-    width: 92px;
-    height: 68px;
+    width: 100%;
+    max-height: none;
   }
 
   .project-entry {
