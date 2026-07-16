@@ -7,6 +7,14 @@ papers:
     thumbnail: "/assets/self-refining/thumbnail.jpg"
     selected: y
 
+  - title: "Robust Finetuning from Generative Representations via Nuisance-extended Information Bottleneck"
+    label: "Preprint"
+    authors: "Minsun Lee, <b>Gwangyeol Yu</b>, Yunhun Nam, Jinwoo Shin, Jongheon Jeong"
+    venue: "Under review."
+    paper_pdf: "/assets/NVIB/Robust_Finetuning_from_Generative_Representations_via_Nuisance_extended_Information_Bottleneck.pdf"
+    thumbnail: "/assets/NVIB/mainfigure.png"
+    selected: y
+
   - title: "Mimic Blocker: Self-Supervised Adversarial Training for Voice Conversion Defense with Pretrained Feature Extractors"
     label: "C1"
     authors: "<b>Gwangyeol Yu</b><sup>*</sup>, Junhyuk Lee<sup>*</sup>, Seoryeong Kim<sup>*</sup>, Jimin Lee, Jehyuk Lee"
