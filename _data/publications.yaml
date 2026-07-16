@@ -28,7 +28,7 @@ papers:
   - title: "Distortion Measurement Metric for Human Image Refinement and Evaluation Using Distorted Image Datasets"
     label: "J1"
     authors: "<b>Gwangyeol Yu</b><sup>*</sup>, Kyungseo Yoon<sup>*</sup>, Sangwoo Lee, Yeju Shin, Jonghyuk Park"
-    venue: "IEEE Access, 2025."
+    venue: "IEEE Access, vol. 13, pp. 34390-34408, 2025."
     paper_pdf: "https://ieeexplore.ieee.org/document/10892112"
     code: "https://github.com/yugwangyeol/DLS_P2P.git"
     thumbnail: "/assets/distortion-metric/thumbnail.png"
