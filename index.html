@@ -19,7 +19,7 @@ title: Home
   <p class="section-note">(C: Conference, J: Journal, P: Patent Application; *: Equal contribution)</p>
 
   {% for paper in site.data.publications.papers %}
-    <div class="publication">
+    <div class="publication{% unless paper.thumbnail %} publication-no-thumb{% endunless %}">
       {% if paper.thumbnail %}
         <img class="publication-thumb" src="{{ paper.thumbnail | prepend: site.baseurl }}" alt="{{ paper.title }} thumbnail">
       {% endif %}
