@@ -1,18 +1,18 @@
 papers:
-  - title: "Refining Visual Artifacts in Diffusion Models via Explainable AI-based Flaw Activation Maps"
-    label: "Preprint"
-    authors: "Seoyeon Lee<sup>*</sup>, <b>Gwangyeol Yu</b><sup>*</sup>, Chaewon Kim<sup>*</sup>, Jonghyuk Park"
-    venue: "Under review."
-    paper_pdf: "https://arxiv.org/abs/2512.08774"
-    thumbnail: "/assets/self-refining/thumbnail.jpg"
-    selected: y
-
   - title: "Robust Finetuning from Generative Representations via Nuisance-extended Information Bottleneck"
     label: "Preprint"
     authors: "Minsun Lee, <b>Gwangyeol Yu</b>, Yunhun Nam, Jinwoo Shin, Jongheon Jeong"
     venue: "Under review."
     paper_pdf: "/assets/NVIB/Robust_Finetuning_from_Generative_Representations_via_Nuisance_extended_Information_Bottleneck.pdf"
     thumbnail: "/assets/NVIB/mainfigure.png"
+    selected: y
+
+  - title: "Refining Visual Artifacts in Diffusion Models via Explainable AI-based Flaw Activation Maps"
+    label: "Preprint"
+    authors: "Seoyeon Lee<sup>*</sup>, <b>Gwangyeol Yu</b><sup>*</sup>, Chaewon Kim<sup>*</sup>, Jonghyuk Park"
+    venue: "Under review."
+    paper_pdf: "https://arxiv.org/abs/2512.08774"
+    thumbnail: "/assets/self-refining/thumbnail.jpg"
     selected: y
 
   - title: "Mimic Blocker: Self-Supervised Adversarial Training for Voice Conversion Defense with Pretrained Feature Extractors"
