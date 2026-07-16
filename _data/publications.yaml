@@ -1,7 +1,7 @@
 papers:
   - title: "Mimic Blocker: Self-Supervised Adversarial Training for Voice Conversion Defense with Pretrained Feature Extractors"
     label: "C1"
-    authors: "<b>Gwangyeol Yu</b>, Junhyuk Lee, Seoryeong Kim, Jimin Lee, Jehyuk Lee"
+    authors: "<b>Gwangyeol Yu</b><sup>*</sup>, Junhyuk Lee<sup>*</sup>, Seoryeong Kim<sup>*</sup>, Jimin Lee, Jehyuk Lee"
     venue: "Interspeech, 2025."
     paper_pdf: "https://www.isca-archive.org/interspeech_2025/yu25c_interspeech.html#"
     project_page: "https://2junhyeok.github.io/MimicBlocker/"
@@ -11,9 +11,15 @@ papers:
 
   - title: "Distortion Measurement Metric for Human Image Refinement and Evaluation Using Distorted Image Datasets"
     label: "J1"
-    authors: "<b>Gwangyeol Yu</b>, Kyungseo Yoon, Sangwoo Lee, Yeju Shin, Junghyuk Park"
+    authors: "<b>Gwangyeol Yu</b><sup>*</sup>, Kyungseo Yoon<sup>*</sup>, Sangwoo Lee, Yeju Shin, Junghyuk Park"
     venue: "IEEE Access, 2025."
     paper_pdf: "https://ieeexplore.ieee.org/document/10892112"
     code: "https://github.com/yugwangyeol/DLS_P2P.git"
     thumbnail: "/assets/distortion-metric/thumbnail.png"
+    selected: y
+
+  - title: "Development and Contentization of Athlete Fitness Indicators Using STT and Object Tracking"
+    label: "P1"
+    authors: "<b>Gwangyeol Yu</b>, Seoyeon Lee, Kiseoup Shin, Seunghak Lee"
+    venue: "KR Patent Application No. 10-2024-0007425."
     selected: y
