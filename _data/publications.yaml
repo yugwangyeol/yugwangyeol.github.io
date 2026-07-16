@@ -1,7 +1,7 @@
 papers:
   - title: "Refining Visual Artifacts in Diffusion Models via Explainable AI-based Flaw Activation Maps"
     label: "Preprint"
-    authors: "<a href=\"https://arxiv.org/search/cs?searchtype=author&amp;query=Lee,+S\" target=\"_blank\">Seoyeon Lee</a><sup>*</sup>, <a href=\"https://arxiv.org/search/cs?searchtype=author&amp;query=Yu,+G\" target=\"_blank\"><b>Gwangyeol Yu</b></a><sup>*</sup>, <a href=\"https://arxiv.org/search/cs?searchtype=author&amp;query=Kim,+C\" target=\"_blank\">Chaewon Kim</a><sup>*</sup>, <a href=\"https://arxiv.org/search/cs?searchtype=author&amp;query=Park,+J\" target=\"_blank\">Jonghyuk Park</a>"
+    authors: "Seoyeon Lee<sup>*</sup>, <b>Gwangyeol Yu</b><sup>*</sup>, Chaewon Kim<sup>*</sup>, Jonghyuk Park"
     venue: "Under review."
     paper_pdf: "https://arxiv.org/abs/2512.08774"
     thumbnail: "/assets/self-refining/thumbnail.jpg"
