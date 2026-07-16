@@ -1,4 +1,12 @@
 papers:
+  - title: "Refining Visual Artifacts in Diffusion Models via Explainable AI-based Flaw Activation Maps"
+    label: "P1"
+    authors: "<a href=\"https://arxiv.org/search/cs?searchtype=author&amp;query=Lee,+S\" target=\"_blank\">Seoyeon Lee</a><sup>*</sup>, <a href=\"https://arxiv.org/search/cs?searchtype=author&amp;query=Yu,+G\" target=\"_blank\"><b>Gwangyeol Yu</b></a><sup>*</sup>, <a href=\"https://arxiv.org/search/cs?searchtype=author&amp;query=Kim,+C\" target=\"_blank\">Chaewon Kim</a><sup>*</sup>, <a href=\"https://arxiv.org/search/cs?searchtype=author&amp;query=Park,+J\" target=\"_blank\">Jonghyuk Park</a>"
+    venue: "arXiv preprint, 2025. Under review at Pattern Recognition."
+    paper_pdf: "https://arxiv.org/abs/2512.08774"
+    thumbnail: "/assets/self-refining/thumbnail.jpg"
+    selected: y
+
   - title: "Mimic Blocker: Self-Supervised Adversarial Training for Voice Conversion Defense with Pretrained Feature Extractors"
     label: "C1"
     authors: "<b>Gwangyeol Yu</b><sup>*</sup>, Junhyuk Lee<sup>*</sup>, Seoryeong Kim<sup>*</sup>, Jimin Lee, Jehyuk Lee"
@@ -19,7 +27,7 @@ papers:
     selected: y
 
   - title: "Development and Contentization of Athlete Fitness Indicators Using STT and Object Tracking"
-    label: "P1"
+    label: "PA1"
     authors: "<b>Gwangyeol Yu</b>, Seoyeon Lee, Kiseoup Shin, Seunghak Lee"
     venue: "KR Patent Application No. 10-2024-0007425."
     thumbnail: "/assets/Patent/patent.png"
